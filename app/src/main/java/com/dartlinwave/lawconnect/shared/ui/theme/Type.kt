@@ -1,4 +1,4 @@
-package com.dartlinwave.lawconnect.ui.theme
+package com.dartlinwave.lawconnect.shared.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

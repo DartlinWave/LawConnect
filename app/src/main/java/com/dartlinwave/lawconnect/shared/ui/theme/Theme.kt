@@ -1,6 +1,5 @@
-package com.dartlinwave.lawconnect.ui.theme
+package com.dartlinwave.lawconnect.shared.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
